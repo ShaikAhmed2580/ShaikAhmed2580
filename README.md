@@ -1,4 +1,4 @@
-[![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg)](https://ShaikAhmed2580.io)
+
 <h1 align="center">Hi 👋, I'm Shaik Ahmed</h1>
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.segalbenz.com/sites/default/files/SB-blog-5-research-stats_112420-550x300.gif">
