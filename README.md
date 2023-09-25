@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikahmed2580&label=Profile%20views&color=0e75b6&style=flat" alt="shaikahmed2580" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@shaikahmed80360168" target="blank"><img src="https://img.shields.io/twitter/follow/@shaikahmed80360168?logo=twitter&style=for-the-badge" alt="@shaikahmed80360168" /></a> </p>
-- 🌱 Graduated in M.Sc. Statistics
+ - 🌱 Graduated in M.Sc. Statistics
 
 - 🌱 I’m currently learning **Data Science, Bio-Statistics**
 
